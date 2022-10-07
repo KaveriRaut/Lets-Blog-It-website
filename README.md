@@ -1,5 +1,5 @@
-# MakeMyBlog_website
-• MakeMyBlog website is full stack web-project. 
+# Lets-Blog-It_website
+• Lets-Blog-It website is full stack web-project. 
 • Functionalities : 1) User can add blog posts
                   2) User can delete posts 
                   3) User can save posts for future use. 
